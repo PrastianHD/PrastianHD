@@ -9,7 +9,7 @@
 <hr/>
 <br/>
 <img align="right" alt="coding" width="450" src="https://miro.medium.com/v2/resize:fit:700/format:webp/1*mUahTQdRR4e4MJLLtJkjbw.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prastianhd&label=Profile%20views&color=0e75b6&style=flat" alt="prastianhd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nodexemperor&label=Profile%20views&color=0e75b6&style=flat" alt="nodexemperor" /> </p>
 
 - 🔭 I’m currently working on [Avail Project](https://www.availproject.org/)
 
