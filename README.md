@@ -43,7 +43,7 @@
 <hr/>
 <div align="center">
  
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/prastianhd/prastianhd/output/github-contribution-grid-snake.svg" />
   <br>
   
   <br/><br/><br/>
@@ -54,10 +54,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=320 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=300 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=320 src="https://github-readme-streak-stats-prastianhd.vercel.app/?user=prastianhd&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=300 src="https://github-readme-stats-prastianhd.vercel.app/api?username=prastianhd&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=300 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.4&count_weight=10&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=300 align="center" src="https://github-readme-stats-prastianhd.vercel.app/api/top-langs/?username=prastianhd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.4&count_weight=10&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/>
@@ -67,6 +67,5 @@
 <p align="left">
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prastianhdd) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/588122994518523910) [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/prastianhdd) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](prastianhd@gmail.com)
-
 
 
