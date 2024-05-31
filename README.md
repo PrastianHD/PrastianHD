@@ -54,9 +54,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=320 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=320 src="https://github-readme-streak-stats-prastianhd.vercel.app/?user=pratianhd&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
-  <img width=300 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=prastianhd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.4&count_weight=10&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=300 align="center" src="https://github-readme-stats-prastianhd.vercel.app/api/top-langs/?username=prastianhd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.4&count_weight=10&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/>
@@ -65,4 +65,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nodeinter) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/588122994518523910) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/prastianhdd) [![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nodeinter@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nodeinter) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/588122994518523910) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/prastianhdd)
