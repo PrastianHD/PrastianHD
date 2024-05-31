@@ -49,16 +49,6 @@
   <br/><br/><br/>
 </div>
 
-
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=320 src="https://github-readme-streak-stats-prastianhd.vercel.app/?user=pratianhd&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br/>
-  <img width=300 align="center" src="https://github-readme-stats-prastianhd.vercel.app/api/top-langs/?username=prastianhd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.4&count_weight=10&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
 <br/>
 <hr/>
 
