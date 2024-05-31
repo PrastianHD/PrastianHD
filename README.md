@@ -11,11 +11,11 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:700/format:webp/1*mUahTQdRR4e4MJLLtJkjbw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bringnode&label=Profile%20views&color=0e75b6&style=flat" alt="bringnode" /> </p>
 
-- 🔭 I’m currently working on [Avail Project](https://www.availproject.org/)
+- 🔭 I’m currently working on [Initia Network](https://initia.xyz/)
 
 - 👯 I’m looking to collaborate on [Movement Labs](https://movementlabs.xyz/)
 
-- 🤝 I’m looking for help with [Subsquid](https://subsquid.io/)
+- 🤝 I’m looking for help with [Initia Network](https://initia.xyz/)
 
 - 📝 I regularly write articles on [nodeinter.net](nodeinter.net)
 
@@ -65,4 +65,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prastianhdd) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/588122994518523910) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/prastianhdd) [![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prastianhd@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nodeinter) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/588122994518523910) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/prastianhdd) [![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nodeinter@gmail.com)
