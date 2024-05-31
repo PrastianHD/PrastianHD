@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [nodeinter.net](nodeinter.net)
 
-- 📫 How to reach me **prastianhd@gmail.com**
+- 📫 How to reach me **nodeinter@gmail.com**
 
 
  <hr/>
