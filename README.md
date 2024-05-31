@@ -32,13 +32,10 @@
 <h3 align="center"> 🔴 VALIDATOR NODES HISTORY 🔴</h3>
 
 [<img src='img/avail.png' height='100'>](https://github.com/PrastianHD/NodeInter)
-[<img src='https://github.com/BringNode/Allexiz/assets/72650448/cb071294-0577-469a-94b4-93adf07dd7ad' height='100'>](https://github.com/PrastianHD/NodeInter)
-[<img src='https://github.com/BringNode/Allexiz/assets/72650448/f9dad382-fc9f-475e-b250-d61ef4e5a242' height='100'>](https://github.com/PrastianHD/NodeInter)
-[<img src='https://github.com/BringNode/Allexiz/assets/72650448/83496b8d-389d-4820-8470-405f4150c2ad' height='100'>](https://github.com/PrastianHD/NodeInter)
-[<img src='https://github.com/BringNode/Allexiz/assets/72650448/49f0be53-fd24-406b-bf3e-65dc1d24c091' height='100'>](https://github.com/PrastianHD/NodeInter)
-[<img src='https://github.com/BringNode/Allexiz/assets/72650448/0c7956ae-91f6-4e3f-a063-d4056dadcc2a' height='100'>](https://github.com/PrastianHD/NodeInter)
-[<img src='https://github.com/BringNode/Allexiz/assets/72650448/24f8dbd8-86a0-4dfe-a824-a18c054cca6f' height='100'>](https://github.com/PrastianHD/NodeInter)
-[<img src='https://github.com/BringNode/Allexiz/assets/72650448/fd1a9607-2eff-4063-8458-e4bfc68eb809' height='100'>](https://github.com/PrastianHD/NodeInter)
+[<img src='img/dusk.png' height='100'>](https://nodeinter.net/docs/dusk-network/)
+[<img src='img/powerloom.png' height='100'>](https://nodeinter.net/docs/powerloom/)
+[<img src='img/farcaster.png' height='100'>](https://nodeinter.net/docs/farcaster/)
+[<img src='img/initia.png' height='100'>](https://nodeinter.net/docs/initia/)
 
 <hr/>
 <div align="center">
