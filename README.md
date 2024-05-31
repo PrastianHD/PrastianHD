@@ -31,7 +31,7 @@
 
 <h3 align="center"> 🔴 VALIDATOR NODES HISTORY 🔴</h3>
 
-[<img src='https://github.com/BringNode/Allexiz/assets/72650448/5996f06c-5343-4a04-b739-47aac66004bc' height='100'>](https://github.com/PrastianHD/NodeInter)
+[<img src='https://github.com/PrastianHD/PrastianHD/blob/main/img/avail.png' height='100'>](https://github.com/PrastianHD/NodeInter)
 [<img src='https://github.com/BringNode/Allexiz/assets/72650448/cb071294-0577-469a-94b4-93adf07dd7ad' height='100'>](https://github.com/PrastianHD/NodeInter)
 [<img src='https://github.com/BringNode/Allexiz/assets/72650448/f9dad382-fc9f-475e-b250-d61ef4e5a242' height='100'>](https://github.com/PrastianHD/NodeInter)
 [<img src='https://github.com/BringNode/Allexiz/assets/72650448/83496b8d-389d-4820-8470-405f4150c2ad' height='100'>](https://github.com/PrastianHD/NodeInter)
