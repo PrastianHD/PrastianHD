@@ -9,7 +9,7 @@
 <hr/>
 <br/>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:700/format:webp/1*mUahTQdRR4e4MJLLtJkjbw.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bringnode&label=Profile%20views&color=0e75b6&style=flat" alt="bringnode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prastianhd&label=Profile%20views&color=0e75b6&style=flat" alt="prastianhd" /> </p>
 
 - 🔭 I’m currently working on [Initia Network](https://initia.xyz/)
 
