@@ -31,6 +31,7 @@
 
 <h3 align="center"> 🔴 VALIDATOR NODES HISTORY 🔴</h3>
 
+[<img src='img/subsquid.png' height='100'>](https://github.com/PrastianHD/NodeInter/tree/main/Subsquid)
 [<img src='img/avail.png' height='100'>](https://github.com/PrastianHD/NodeInter/blob/main/Avail%20-%20Madara/madara.md)
 [<img src='img/dusk.png' height='100'>](https://nodeinter.net/docs/dusk-network/)
 [<img src='img/powerloom.png' height='100'>](https://nodeinter.net/docs/powerloom/)
