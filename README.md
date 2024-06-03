@@ -36,6 +36,7 @@
 [<img src='img/powerloom.png' height='100'>](https://nodeinter.net/docs/powerloom/)
 [<img src='img/farcaster.png' height='100'>](https://nodeinter.net/docs/farcaster/)
 [<img src='img/initia.png' height='100'>](https://nodeinter.net/docs/initia/)
+[<img src='img/carvprotocol.png' height='100'>](https://nodeinter.net/docs/carv-protocol/)
 
 <hr/>
 <div align="center">
