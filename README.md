@@ -41,16 +41,6 @@
 [<img src='img/movement.png' height='100'>](https://github.com/PrastianHD/NodeInter/)
 
 <hr/>
-<div align="center">
- 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/prastianhd/output/github-contribution-grid-snake.svg" />
-  <br>
-  
-  <br/><br/><br/>
-</div>
-
-<br/>
-<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
