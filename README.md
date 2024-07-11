@@ -22,8 +22,20 @@
 
 <hr/>
 
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrastianHD&show_icons=true&locale=en" alt="PrastianHD" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrastianHD&" alt="PrastianHD" />
+    </td>
+  </tr>
+</table>
 
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nodeinter) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/588122994518523910) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/prastianhdd)
+
