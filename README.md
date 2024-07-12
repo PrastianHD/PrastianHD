@@ -1,10 +1,11 @@
 ![logo](/img/full%20stake%20web3.png)
 <hr/>
-<div align="center">
-  - Full Stack Web3 Developer • Blockchain Enthusiast • Crypto Analyst Research • Web3 Community Manager -
-</div>
+
+<h2 align="center">⚒️ Full Stack Web3 Developer • Blockchain Enthusiast • Crypto Analyst Research ⚒️ </h2>
+  
+<h2 align="center">⚒️ Web3 Community Manager ⚒️ </h2>
+
 <hr/>
-<br/>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:700/format:webp/1*mUahTQdRR4e4MJLLtJkjbw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prastianhd&label=Profile%20views&color=0e75b6&style=flat" alt="prastianhd" /> </p>
 
