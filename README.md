@@ -33,7 +33,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrastianHD&show_icons=true&locale=en" alt="PrastianHD" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrastianHD&" alt="PrastianHD" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=prastianhd&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
