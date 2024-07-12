@@ -1,4 +1,8 @@
-
+![logo](/img/full%20stake%20web3.png)
+<hr/>
+<div align="center">
+  - Full Stack Web3 Developer • Blockchain Enthusiast • Crypto Analyst Research • Web3 Community Manager -
+</div>
 <hr/>
 <br/>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:700/format:webp/1*mUahTQdRR4e4MJLLtJkjbw.gif">
